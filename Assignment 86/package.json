@@ -1,0 +1,14 @@
+{
+  "name": "assignment-86",
+  "version": "1.0.0",
+  "description": "",
+  "main": "includes.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
+
+
